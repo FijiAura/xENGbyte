@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/N1nt4nd0/Xenobyte/blob/master/logo.png"></p>
 
-# X3N0BYT3 - Hack Pack for Minecraft 1.7.10 Forge
+# XENGBYTE - Hack Pack for Minecraft 1.7.10 Forge
 
 # A short video guide to use
 
